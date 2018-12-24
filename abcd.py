@@ -7,5 +7,6 @@
 def abc():
     print("aaaaaaaaaaaaaaaa")
 
-def xyz():
     print("hi, i'm a champion")
+    
+def xyz():
